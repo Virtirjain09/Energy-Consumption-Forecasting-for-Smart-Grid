@@ -1,7 +1,12 @@
-# Healthcare-Data-Analysis
+# Energy Consumption Forecasting for Smart Grids
 
-This project analyzes healthcare data using various machine learning techniques and statistical models.
+This project uses machine learning techniques to forecast energy consumption in smart grids.
 
-## Description
+## Features
 
-The code performs data analysis on a smart grid stability dataset. It uses libraries such as pandas, numpy, seaborn, matplotlib, statsmodels, and scikit-learn to process the data, create visualizations, and build predictive models.
+- Data preprocessing and exploration
+- Time series analysis using ARIMA
+- Machine learning models including Random Forest
+- Performance evaluation using various metrics
+
+
